@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.btn {
+    @apply border-solid outline outline-1 outline-abu px-5 rounded-sm text-bodi font-medium
+}
